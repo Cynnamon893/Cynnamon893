@@ -1,7 +1,4 @@
-
-
-
-- 👋 Hey, I am Cynthia Austin, fresh out of university and ready to start programming professionally! 
+- 👋 Hey, I am Cynthia Austin, fresh out of work and ready to get back in! 
 - 👀 I am interested in improving my programming skills in a supportive environment.
 - 🌱 I am currently refreshing my Java knowledge.
 - 💞️ I am looking to collaborate on any interesting projects, especially involving coomplicated User Interfaces.
